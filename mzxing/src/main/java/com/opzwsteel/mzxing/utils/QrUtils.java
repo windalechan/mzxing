@@ -1,4 +1,4 @@
-package com.opzwsteel.qrcode.utils;
+package com.opzwsteel.mzxing.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

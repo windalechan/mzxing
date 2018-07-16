@@ -11,7 +11,7 @@
  * specific language governing permissions and limitations under the License.
  */
 
-package com.opzwsteel.qrcode.view;
+package com.opzwsteel.mzxing.view;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -24,7 +24,7 @@ import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 
 import com.opzwsteel.mzxing.R;
-import com.opzwsteel.qrcode.utils.ScreenUtils;
+import com.opzwsteel.mzxing.utils.ScreenUtils;
 
 
 /**

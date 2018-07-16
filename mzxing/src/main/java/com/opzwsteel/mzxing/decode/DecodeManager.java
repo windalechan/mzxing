@@ -1,4 +1,4 @@
-package com.opzwsteel.qrcode.decode;
+package com.opzwsteel.mzxing.decode;
 
 import android.app.Activity;
 import android.app.AlertDialog;

@@ -1,4 +1,4 @@
-package com.opzwsteel.qrcode;
+package com.opzwsteel.mzxing;
 
 import android.Manifest;
 import android.app.Activity;
@@ -24,12 +24,11 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.zxing.Result;
-import com.opzwsteel.mzxing.R;
-import com.opzwsteel.qrcode.camera.CameraManager;
-import com.opzwsteel.qrcode.decode.CaptureActivityHandler;
-import com.opzwsteel.qrcode.decode.DecodeManager;
-import com.opzwsteel.qrcode.decode.InactivityTimer;
-import com.opzwsteel.qrcode.view.QrCodeFinderView;
+import com.opzwsteel.mzxing.camera.CameraManager;
+import com.opzwsteel.mzxing.decode.CaptureActivityHandler;
+import com.opzwsteel.mzxing.decode.DecodeManager;
+import com.opzwsteel.mzxing.decode.InactivityTimer;
+import com.opzwsteel.mzxing.view.QrCodeFinderView;
 
 import java.io.IOException;
 

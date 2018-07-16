@@ -1,10 +1,10 @@
-package com.opzwsteel.qrcode.decode;
+package com.opzwsteel.mzxing.decode;
 
 import android.graphics.Bitmap;
 import android.text.TextUtils;
 
 import com.google.zxing.Result;
-import com.opzwsteel.qrcode.utils.QrUtils;
+import com.opzwsteel.mzxing.utils.QrUtils;
 
 /**
  * Created by xingli on 1/4/16.

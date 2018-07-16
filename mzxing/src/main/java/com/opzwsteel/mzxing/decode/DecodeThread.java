@@ -11,13 +11,13 @@
  * specific language governing permissions and limitations under the License.
  */
 
-package com.opzwsteel.qrcode.decode;
+package com.opzwsteel.mzxing.decode;
 
 import android.graphics.Rect;
 import android.os.Handler;
 import android.os.Looper;
 
-import com.opzwsteel.qrcode.CaptureActivity;
+import com.opzwsteel.mzxing.CaptureActivity;
 
 import java.util.concurrent.CountDownLatch;
 

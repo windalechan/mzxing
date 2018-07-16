@@ -1,4 +1,4 @@
-package com.opzwsteel.qrcode.utils;
+package com.opzwsteel.mzxing.utils;
 
 import android.content.Context;
 import android.util.DisplayMetrics;

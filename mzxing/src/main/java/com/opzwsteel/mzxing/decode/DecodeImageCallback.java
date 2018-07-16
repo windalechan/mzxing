@@ -1,4 +1,4 @@
-package com.opzwsteel.qrcode.decode;
+package com.opzwsteel.mzxing.decode;
 
 import com.google.zxing.Result;
 

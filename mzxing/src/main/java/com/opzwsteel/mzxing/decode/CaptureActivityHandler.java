@@ -11,7 +11,7 @@
  * specific language governing permissions and limitations under the License.
  */
 
-package com.opzwsteel.qrcode.decode;
+package com.opzwsteel.mzxing.decode;
 
 import android.graphics.Rect;
 import android.os.Handler;
@@ -20,8 +20,8 @@ import android.util.Log;
 
 import com.google.zxing.Result;
 import com.opzwsteel.mzxing.R;
-import com.opzwsteel.qrcode.CaptureActivity;
-import com.opzwsteel.qrcode.camera.CameraManager;
+import com.opzwsteel.mzxing.CaptureActivity;
+import com.opzwsteel.mzxing.camera.CameraManager;
 
 /**
  * This class handles all the messaging which comprises the state machine for capture.

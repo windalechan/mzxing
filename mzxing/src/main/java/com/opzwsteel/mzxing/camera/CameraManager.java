@@ -11,7 +11,7 @@
  * specific language governing permissions and limitations under the License.
  */
 
-package com.opzwsteel.qrcode.camera;
+package com.opzwsteel.mzxing.camera;
 
 import android.content.Context;
 import android.hardware.Camera;
