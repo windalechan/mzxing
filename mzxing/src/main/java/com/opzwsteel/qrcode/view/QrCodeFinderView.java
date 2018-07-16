@@ -23,7 +23,7 @@ import android.view.LayoutInflater;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 
-import com.google.zxing.R;
+import com.opzwsteel.mzxing.R;
 import com.opzwsteel.qrcode.utils.ScreenUtils;
 
 

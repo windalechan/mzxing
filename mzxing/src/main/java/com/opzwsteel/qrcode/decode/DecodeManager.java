@@ -5,7 +5,7 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 
-import com.google.zxing.R;
+import com.opzwsteel.mzxing.R;
 
 
 /**

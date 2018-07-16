@@ -23,8 +23,8 @@ import android.view.Window;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.google.zxing.R;
 import com.google.zxing.Result;
+import com.opzwsteel.mzxing.R;
 import com.opzwsteel.qrcode.camera.CameraManager;
 import com.opzwsteel.qrcode.decode.CaptureActivityHandler;
 import com.opzwsteel.qrcode.decode.DecodeManager;

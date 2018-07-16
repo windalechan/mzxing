@@ -18,8 +18,8 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 
-import com.google.zxing.R;
 import com.google.zxing.Result;
+import com.opzwsteel.mzxing.R;
 import com.opzwsteel.qrcode.CaptureActivity;
 import com.opzwsteel.qrcode.camera.CameraManager;
 
